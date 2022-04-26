@@ -7,6 +7,7 @@
  * 3. npm init
  * 4. npm install express
  * 5. create index.js
+ * 6. npm i express cors dotenv mongodb
  * --------------------
  * For Express/node server
  * --------------------
